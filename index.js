@@ -1,5 +1,10 @@
-const testVar = {}
 
-function testFunc() {
-  return "hi"
-}
+
+function superbowlWin() {
+  let obj = record.find(obj => obj.result == 'W');
+  if (obj.result == 'W') {
+    return obj.year }
+  else { return obj.year === 'undefined'}
+
+
+   }
