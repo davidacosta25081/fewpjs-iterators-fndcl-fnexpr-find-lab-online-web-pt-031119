@@ -51,7 +51,7 @@ const record = [
   { year: "1969", result: "L"},
   { year: "1968", result: "N/A"},
   { year: "1967", result: "N/A"},
-  { year: "1966", result: "L"},
+  { year: "1966", result: "W"},
   { year: "1965", result: "N/A"},
   { year: "1964", result: "N/A"},
   { year: "1963", result: "N/A"},
